@@ -1,6 +1,6 @@
 <h1 align="center" >Github Explorer</h1>
 
-<p align="center" >Application made with ReackJS, using the public api from github, for searching and listing repositories.</p>
+<p align="center" >Application made with ReactJS, using the public api from github, for searching and listing repositories.</p>
 
 <h3 align="center">Search and Listing<h3/>
 
